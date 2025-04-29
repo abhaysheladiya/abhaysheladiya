@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhay Sheladiya!
 
-<!--
-**abhaysheladiya/abhaysheladiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and data enthusiast with experience in building modern web applications and applying machine learning to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Bachelor's degree in Engineering, Information Technology background  
+- 🌐 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)  
+- 💬 Proficient in JavaScript, SQL, MongoDB 
+- 🤝 Open to collaboration on impactful projects and research  
+- 🧠 Currently exploring advanced topics in Computer Vision and NLP
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 💻 Languages: Python, JavaScript (ES6+), HTML, CSS, SQL  
+- 🧰 Frameworks: React, Express, Node.js, Bootstrap, Tailwind   
+- ⚙️ Dev Tools: Git, VSCode, Postman, Jupyter Notebooks  
+- 🌐 Database: MongoDB, MySQL
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [Linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhay-sheladiya-330064201/))  
+- 🌐 Portfolio: [Portfolio]([https://yourwebsite.com](https://abhaysheladiya.github.io/Portfolio/))
+
+---
+
+⭐️ Thank you for visiting my profile!
