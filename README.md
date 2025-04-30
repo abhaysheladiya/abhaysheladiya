@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast wit
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Linkedin]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhay-sheladiya-330064201/))  
-- 🌐 Portfolio: [Portfolio]([https://yourwebsite.com](https://abhaysheladiya.github.io/Portfolio/))
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/abhay-sheladiya-330064201/)  
+- 🌐 Portfolio:  [Click Here](https://abhaysheladiya.github.io/Portfolio/)
 
 ---
 
